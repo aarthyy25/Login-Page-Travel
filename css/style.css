@@ -1,0 +1,126 @@
+/* section{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    font-family: calibri;
+}
+.col-6{
+    width: 100%;
+}
+.header{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 50rem;
+    width: 100%;
+
+}
+.main image img{
+     z-index: -1;
+     height: 50rem;
+     width: 100%;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+
+}
+.para{
+    z-index: 1;
+    position: absolute;
+    top: 100px;
+    right: 100px;
+    color:black;
+    text-align: center;
+    height: 300px;
+    width: 400px;
+
+} */
+/* .container{
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+img{
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 1000px; 
+    width: 1500px;
+ }  */
+
+
+ body{
+    width: 100%;
+    font-family: Arial;
+    margin: 0px;
+    padding: 0px;
+}
+.container .col-6 .img{
+    text-align: right;
+    
+
+}
+.img{
+    z-index: -1;
+    position: relative;
+    right: 300px;
+    height: 45rem;
+    width: 80rem;
+
+}
+.container .col-6 .head{
+
+    margin-top: 40px;
+
+}
+.index{
+    text-align: center;
+    z-index: +1;
+    position: relative;
+    bottom: 40rem;
+    right: 26px;
+    margin:0px 50px;
+}
+.head1{
+    text-align: center;
+}
+.log2{
+    padding: 0px 30px;
+}
+.row .log3{
+    position: relative;
+    right: 0px;
+}
+.col-6 .head .row{
+    text-align: center;
+    padding: 10px 40px;
+}
+.col-6 .head .col-3{
+    background-color: rgb(228, 245, 252);
+    font-size: 30px;
+    border-radius: 10px;
+    margin:20px 20px;
+    padding:15px 10px;
+}
+.log4{
+    text-align: center;
+    
+}
+.or{
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    position : relative;
+    left: 65px;
+    top: 10px
+}
+.or input{
+    background-color: white;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    position: relative;
+    bottom: 25px;
+}
